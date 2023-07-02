@@ -2,7 +2,7 @@
  * @Author: yangshilin
  * @Date: 2023-06-29 21:36:58
  * @LastEditors: yangshilin
- * @LastEditTime: 2023-07-02 11:44:34
+ * @LastEditTime: 2023-07-02 11:46:26
  * @FilePath: src\main.ts
  * @Description: 请添加文件描述
  */
@@ -11,7 +11,7 @@ import "./style.css";
 import App from "./App.vue";
 
 const fun = () => {
-  console.log("我爱你祖国");
+  console.log("我爱你祖国啊啊啊");
 };
 
 fun();
