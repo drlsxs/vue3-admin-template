@@ -2,7 +2,7 @@
   @Author: yangshilin
   @Date: 2023-06-29 22:03:53
   @LastEditors: yangshilin
-  @LastEditTime: 2023-07-02 11:57:52
+  @LastEditTime: 2023-07-02 12:06:19
   @FilePath: src\App.vue
   @Description: desc
  -->
@@ -15,6 +15,7 @@
 <script>
 for (let i = 0; i < 100; i++) {
   console.log(i);
+  console.log(123, "commitlint");
 }
 </script>
 
