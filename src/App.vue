@@ -2,7 +2,7 @@
   @Author: yangshilin
   @Date: 2023-06-29 22:03:53
   @LastEditors: yangshilin
-  @LastEditTime: 2023-07-02 11:50:30
+  @LastEditTime: 2023-07-02 11:55:44
   @FilePath: src\App.vue
   @Description: desc
  -->
@@ -13,9 +13,8 @@
 </template>
 
 <script>
-for (let i = 0;i<100;i++)
-{
-  console.log(i)
+for (let i = 0; i < 100; i++) {
+  console.log(i);
 }
 </script>
 
